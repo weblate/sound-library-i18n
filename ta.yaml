@@ -13,7 +13,7 @@ groups:
     name: வானிலை
 sounds:
   creaking_boat:
-    name: படகு படகு
+    name: படகுப் படகு
   electric_car:
     name: மின்சார கார்
   fan:
